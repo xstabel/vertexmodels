@@ -1,0 +1,85 @@
+type: object
+required:
+- Age
+- Job
+- MaritalStatus
+- Education
+- Default
+- Balance
+- Housing
+- Loan
+- Contact
+- Day
+- Month
+- Duration
+- Campaign
+- PDays
+- Previous
+- POutcome
+properties:
+  Age:
+    type: string
+    nullable: true
+  Job:
+    type: string
+    nullable: true
+  MaritalStatus:
+    type: string
+    nullable: true
+  Education:
+    type: string
+    nullable: true
+  Default:
+    type: string
+    nullable: true
+  Balance:
+    type: string
+    nullable: true
+  Housing:
+    type: string
+    nullable: true
+  Loan:
+    type: string
+    nullable: true
+  Contact:
+    type: string
+    nullable: true
+  Day:
+    type: string
+    nullable: true
+  Month:
+    type: string
+    nullable: true
+  Duration:
+    type: string
+    nullable: true
+  Campaign:
+    type: string
+    nullable: true
+  PDays:
+    type: string
+    nullable: true
+  Previous:
+    type: string
+    nullable: true
+  POutcome:
+    type: string
+    nullable: true
+nullable: true
+example:
+  Age: '39.0'
+  Job: blue-collar
+  MaritalStatus: married
+  Education: secondary
+  Default: 'no'
+  Balance: '450.0'
+  Housing: 'yes'
+  Loan: 'no'
+  Contact: cellular
+  Day: '16.0'
+  Month: may
+  Duration: '180.0'
+  Campaign: '2.0'
+  PDays: '-1.0'
+  Previous: '0.0'
+  POutcome: unknown

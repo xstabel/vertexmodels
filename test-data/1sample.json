@@ -1,0 +1,24 @@
+{
+    "instances":
+    [
+      {
+        "Id": 1,
+        "Age": 35,
+        "Job": "management",
+        "MaritalStatus": "married",
+        "Education": "tertiary",
+        "Default": "no",
+        "Balance": 231,
+        "Housing": "yes",
+        "Loan": "no",
+        "Contact": "unknown",
+        "Day": 5,
+        "Month": "may",
+        "Duration": 139,
+        "Campaign": 1,
+        "PDays": -1,
+        "Previous": 0,
+        "POutcome": "unknown"
+      }
+    ]
+    }

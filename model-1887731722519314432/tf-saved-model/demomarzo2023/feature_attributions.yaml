@@ -1,0 +1,34 @@
+type: object
+properties:
+  Age:
+    type: number
+  Job:
+    type: number
+  MaritalStatus:
+    type: number
+  Education:
+    type: number
+  Default:
+    type: number
+  Balance:
+    type: number
+  Housing:
+    type: number
+  Loan:
+    type: number
+  Contact:
+    type: number
+  Day:
+    type: number
+  Month:
+    type: number
+  Duration:
+    type: number
+  Campaign:
+    type: number
+  PDays:
+    type: number
+  Previous:
+    type: number
+  POutcome:
+    type: number
